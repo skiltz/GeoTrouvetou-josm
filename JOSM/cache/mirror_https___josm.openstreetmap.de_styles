@@ -1,0 +1,521 @@
+sidewalks_kerbs.mapcss;https://raw.githubusercontent.com/species/josm-preset-wheelchair/master/sidewalks_kerbs.mapcss
+	author: Michael Maier (species@osm)
+	description: A Style for highlighting wheelchair-relevant Tags
+	min-josm-version: 6789
+	title: Wheelchair Routing Attributes
+	version: 1.0.3
+seamark_styles.xml;https://raw.githubusercontent.com/OpenSeaMap/josm/master/seamark_styles.xml
+	author: OpenSeaMap
+	description: Seamarks for OpenSeaMap
+	link: http://www.openseamap.org
+	shortdescription: OpenSeaMap
+	version: 2011-02-13
+conscriptionnumbers.mapcss;http://download.freemap.sk/JOSM/conscriptionnumbers.mapcss
+	author: jose1711
+	description: Style useful when mapping addresspoints in Czech and Slovak republic (http://wiki.openstreetmap.org/wiki/CS:WikiProject_Czech_Republic/Address_system). It makes addr:housenumber optional 
+	title: Conscriptionnumbers/streetnumbers
+	version: 0.1
+elemstyles_is.xml;https://github.com/avar/osmis-josm-style/raw/master/elemstyles_is.xml
+	author: Ævar Arnfjörð Bjarmason
+	description: Custom JOSM mappaint style for Iceland
+	is.description: JOSM teiknistíll fyrir Ísland
+	is.shortdescription: Ísland
+	shortdescription: Iceland
+	version: 0.1
+mapnik.zip;https://github.com/bastik/mapcss-tools/raw/osm/mapnik2mapcss/osm-results/mapnik.zip
+	acknowledgement: Derived from the OpenStreetMap Mapnik style (various authors): http://trac.openstreetmap.org/browser/applications/rendering/mapnik
+	description: MapCSS variant of the OSM Mapnik style (as close as possible to the original). It is not very suitable for real mapping in an editor because nodes and lines without a style are hidden and opaque areas may cover each other. This file is optimized for JOSM and may need some minor changes to work properly with other MapCSS implementations.
+	title: Mapnik (true)
+	version: 0.1
+naptan_bus_stops.zip;http://osmalba.org/josm_styles/naptan_bus_stops.zip
+	author: Vclaw
+	description: Highlight bus stops (and taxi ranks) from Naptan import (UK), and whether they have been verified
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAGNQTFRF////TpoGTpoGTpsGTpoGT5sGLjQ2MTw0MT00NEIzPFUwPUo8QEZIQWAtRWkrR2cySG8qTpoGUoArU4klWKoKWZciXbEMX6MgZW9iabwaar4aasUSa74abcQZc9IWf4KCh46Eqkj8YAAAAAZ0Uk5TACGp6PL+eRqKlgAAAIBJREFUGNNlj1sOhCAMRQuIb3FQxHd1/6uUoqnJeL7KyQ29BRBS2QclBYBItPMPTicCpF6RWbUE5cIwdm3bjWFwCqxHHLLpPKdsQPQ2CjNTfjYsmvuHhkW5bIGlZFGkkYJFddD7qN5ETaJ+Eyb/BfJ7CxXbe1rS77HYp/rnuP/zL1GQEyW8CBDiAAAAAElFTkSuQmCC
+	title: NaPTAN bus stops
+	version: 0.1_2011-05-16
+	icon-size: 16x16
+FreieTonne_rules_presets.zip;http://www.freietonne.de/ft_icons/josm/FreieTonne_rules_presets_zip.php
+	author: FreieTonne
+	de.description: Seekarte/ Seezeichen des Projektes FreieTonne
+	description: Seemap/ Seamarks from Project FreieTonne
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3goXEzosao8PywAAArRJREFUOMtFk09oXFUUxn/fve9NOk6mpn9sEw2UGi1ibECKUHVWWhe6qBtBCIqCQotuFBHRhdBdhSIqWEFXXQmC2YmKECqpUA2oWNwY2kC1aTVN2yTNzLx337vHxZ2md3Pu4pzvD+c7ijFGAIGQ7GrR0/iPMzacZfrzscO2e0tTMUaTJMDMTJI2qzMzAOrB58lfvqeoK1ZCYGpuhrUq4CTMDAMSzu3qEjnyzunCxrr+uLpEPtTEec9/RY+frl0BKTUBlmTAANApoVuMkXtbbftgqkPormEAPuPRbbsTo3NIwjF4AwXZwD81hgPm16+DzxKLz7l79iue2jXOkbG9NPIGh3aMYWbIDEnIkncD9PbCr3bi/Dm55h0WoyXFoRJ1MIqecM6OTR7U+xNTFmOUwNzNbhfqyMzFBU78dgaZg24P1y+gLGEoBzlotsE3OHXxL0Jd4+QwIDv40IPIeVbrGkKBScm/BGWAL47D6C6oKgAuVIGfwwadLVtxcohTZ4w7t1vn9znNfvi6Le0ck5nZsHP65tqqvVyU4uFJo18IZMRa+w27L8t1o9ezjH2TMNSkqHrkY+PsaTTAOTB4aWQrE6vrrCz+jfMirytcEXjhtWOc27kHqoqMUEJdMb93ktkHDvDE/A+wfZToPRZqOsMtaLfAZbCyxBtvnWT58DRshNtrJEYIfV48epxPmm2mLi8ysfwPvugSWyNIoNV/+eiZV/j46Wn8pcvUPhskUUpJKwuWtt3Fc+98zr6Tp2l9OseXjz+L27hBLQfdm3z9yCHol2l4cAKbwTIJQonWr+OWr9DPc6bf/YzT+ztk3TVojzB99tsUwhhT+gB3CymhGCYRvU8MvYL3nn8Tyj40mrx69rvBQcQUPcDhlJrN0u5vARoQAud3jLJw/wFoDOEtcs+lRSxvbHL+D/wMRqWGUSB2AAAAAElFTkSuQmCC
+	link: http://www.freietonne.de/index.php?site=31&infotyp=1&printable=1
+	shortdescription: SeaMap FreieTonne
+	version: 20141024112048
+	icon-size: 16x16
+Hide_nodes.mapcss;https://dl.dropbox.com/u/8010189/Forum%20attachments/Hide_nodes.mapcss
+	author: Felis Pimeja
+	description: Simple style to hide nodes in JOSM (may be handy to observe objects on low levels)
+	title: Hide nodes
+	version: 1
+coloured-addresses.mapcss;https://github.com/simon04/coloured-addresses.mapcss/raw/master/dist/coloured-addresses.mapcss
+	author: simon04
+	description: Style to ease mapping of addresses by colouring streets and houses
+	link: https://github.com/simon04/coloured-addresses.mapcss
+	title: Coloured Addresses
+oam-style.mapcss;https://raw.github.com/molysgaard/OAM-JOSM/master/oam-style.mapcss
+	author: Morten Olsen Lysgaard
+	description: OpenAviationMap styling of aviation related data.
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABsUlEQVQoz2NgoCfQLq5jRBFQza9iUSusYkVXKJlaxMIbl83NE5fN5dsxEaFJKCmPjys2y4c3PjsNiDMEE3M9OWMyRUWT85iA4krs0Rlx7FHpnWxR6c1AvhdvbBY3A09sFiNQUSBzROp/lsg0EP4LooGKlvMn5GixRqVvgYp/gdL/OaIzShmApjEBFTVCFW/kiMlIB7IvgBXEZCQD5fPYojM6gHQYUH4F0II/QMO+MgAVMIM0AOmvHDGZQSCnA/mrwAZFpmUg+xXoTH+QOpCrGISB/mCNSnsK5HwD+mM6UNNUIPsXEN8AOskUpun8y/uMQLnVIC8B6a0Mwkn5oiDTYX4EGgLCx4BO85dKL2EGaUroncwI5LezANWwRqa94IrN1GfgjstyZYYIXAKaZMcWleYA9JuyXHYVE0iTfFYlJ1t0Wh/IFUD560BNEFcAnVMB9k90+kz0+BNMyhcBKp4NlP8JMpw9Ov0u0Oa1oDAABcQWkCDQgGx0jUAxO6CmhyB5pOgCY1BIOQFDMxAYZ5LoGsVSCvmAciZAAxyAce3ME5dlC1RnAcIMwGTECNTMSGp6BQCcS6u2l0VKZQAAAABJRU5ErkJggg==
+	link: http://openaviationmap.org
+	shortdescription: OpenAviationMap
+	shorttitle: OpenAviationMap
+	title: OpenAviationMap styling of aviation related data.
+	version: 0.0.2
+	icon-size: 14x14
+hotosm_HDM-JOSM-style.zip;https://github.com/hotosm/HDM-JOSM-style/archive/master.zip
+	author: HOT (Humanitarian OpenStreetMap Team)
+	description: Humanitarian Data Model focused style.
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAQCAMAAADQzfSkAAAAn1BMVEUAAADXPz8tDg45ERFFFRXKOzvvtLT////+/PzplJSSKipCEhLfaGjXQUFYGRl9JSXXQEB3IyOPKirzxMT20tLniorjenrcVlbnjIzfY2PfZWXRPT3njY3ZSkrqmZnurKxNFhblhITvsbH10NDidHTvsLDYRkbhcHC6NjY3EBCoMDDYRETlgoLZR0fWPj731tbwt7eEJydWGRm4NjaVKysfqTgnAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEgAACxIB0t1+/AAAAJlJREFUGNOFkUcCgkAQBCkR24wi5pwR8+r/3+YBlMWD1rUO3T3jOP/ApvBL2sJ13aIHlKRyBaCauRoAdSU0gGYmfaClN1ZmOwgCoKOQbq8/GGpkZY4BkCb0NdVMc6vQInXL1K0A8LM41grZbHeaaQ9eFEWHRMbAMdfFWugBp1Sdv/dfgONV0g24G2OMk5/44fF10diWz7/feQHn/AmCAECxXwAAAABJRU5ErkJggg==
+	link: https://github.com/hotosm/HDM-JOSM-style
+	title: HDM
+	version: 0.0.1
+	icon-size: 27x16
+DisasterNetDOTOrg_HOT-Osm-Validation.zip;https://github.com/DisasterNetDOTOrg/HOT-Osm-Validation/archive/master.zip
+	author: MarkCupitt
+	description: This Style is designed for HOT Validators for use in JOSM. it shows the allowed tags in a Sparse Population Area Mapping, and highlights in RED any tags that have been used and are not contained in the Specification which is located at http://wiki.openstreetmap.org/wiki/Highway_Tag_Africa. This style was adapted form the HDM.mapcss file found at https://github.com/hotosm/HDM-JOSM-style/archive/master.zip and AndrewBuck's Surface Data Entry Style. For Updates and more Information and Updates, please see GIT Repository at https://github.com/DisasterNetDOTOrg/HOT-Osm-Validation
+	link: https://github.com/DisasterNetDOTOrg/HOT-Osm-Validation/archive/master.zip
+	title: HOT-Validate
+	version: 1.0.20_2014-04-15
+townland.mapcss;http://maps.openstreetmap.ie/josm/townland.mapcss
+	author: IrlJidel
+	description: MapCSS to highlight Irish townland, electoral district, civil parish and barony boundaries
+	title: Irish Boundaries
+	version: 0.7
+Styles_AddressValidator-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/AddressValidator&zip=1
+	author: Antisida, CupIvan, Felis Pimeja, Zverik
+	description: Coloring of buildings with or without addr:street, addr:housenumber
+	title: Address Tags Validator
+	version: 1.14_2014-02-11
+Styles_BesideTheRoad_Speed-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/BesideTheRoad_Speed&zip=1
+	author: kudrdima
+	description: Visualization of traffic signs, road characteristics, some of the road infrastructure, traffic restrictions and prohibitions
+	link: http://wiki.openstreetmap.org/wiki/User:Kudrdima/Styles_BesideTheRoad_Speed
+	ru.author: Дмитрий Кудряшов
+	ru.description: Визуализация некоторых тегов, объектов и свойств связанных со скоростью: дорожных знаков,  запретов и ограничений движения
+	title: BesideTheRoad_Speed
+	version: 0.7_2011-09-28
+Styles_British-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/British&zip=1
+	author: Ulf Lamping
+	de.description: Spezialregeln für die Besonderheiten im britischen Gebiet (e.g. Verkehrszeichen).
+	de.shortdescription: Britische Kartenanpassung
+	description: Special rules to take differences in the british area into account (e.g. traffic signs).
+	name: standard
+	shortdescription: British map overlay
+	version: 1.2_2011-02-25
+	xmlns: http://josm.openstreetmap.de/mappaint-style-1.0
+Styles_Coloured_Postcode-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Coloured_Postcode&zip=1
+	author: geozeisig
+	description: Style to ease mapping of Postcode by colouring streets and houses and nodes
+	link: http://josm.openstreetmap.de/wiki/Styles/Coloured_Postcode
+	title: Coloured Postcode
+	version: 2.15_2014-04-22
+Styles_Coloured_Streets-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Coloured_Streets&zip=1
+	author: geozeisig, Klumbumbus
+	de.description: Einfärben von Gebäuden, Adressnodes und Straßen mit gleichem Straßennamen in der gleichen Farbe. Macht die Arbeit mit Adressen wesentlich leichter. Schau dir die verlinkte Seite an, um zu lesen, wie man einige Einstellungen dieses MapMaint-Stils ändert. Min. JOSM-Version ist 7480.
+	de.link: http://josm.openstreetmap.de/wiki/De:Styles/Coloured_Streets
+	de.title: Coloured Streets
+	description: Colouring of buildings, address nodes and streets with the same street name in the same colour. Makes working with addresses a lot easier. Check out the linked page to read how to change some settings of this mappaint style. Min. JOSM version is 7480.
+	icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTY0MC03MTkuMzYpIj48cGF0aCBmaWxsPSIjY2NjIiBkPSJtNjQwIDcxOS4zNmgxOHYxOGgtMTh6Ii8+PHBhdGggZmlsbD0iI2ZmMCIgZD0ibTY1MiA3MzMuMzZoM3YzaC0zeiIvPjxwYXRoIGQ9Im02NTIgNzMzLjM2aDNsMi0xNGgtM3oiIGZpbGw9IiMzM2NkMzMiLz48cGF0aCBmaWxsPSIjMDBhMmU4IiBkPSJtNjU1IDczMy4zNmgzdjNoLTN6Ii8+PHBhdGggZmlsbD0iI2Y3NTYxNyIgZD0ibTY0MCA3MzMuMzZoMTJ2M2gtMTJ6Ii8+PGcgZmlsbD0iIzMzY2QzMyI+PHBhdGggZD0ibTY1MyA3MzQuMzZoMXYxaC0xeiIvPjxwYXRoIGQ9Im02NDEgNzIwLjM2aDEwdjExaC0xMHoiLz48L2c+PHBhdGggZmlsbD0iI2FkY2NhZCIgZD0ibTY0NCA3MjMuMzZoNHY1aC00eiIvPjxnIGZpbGw9IiNmZjAiPjxwYXRoIGQ9Im02NDkgNzI5LjM2aDJ2MmgtMnoiLz48cGF0aCBkPSJtNjQxIDcyOS4zNmgydjJoLTJ6Ii8+PHBhdGggZD0ibTY0MSA3MjAuMzZoMnYyaC0yeiIvPjxwYXRoIGQ9Im02NDkgNzIwLjM2aDJ2MmgtMnoiLz48L2c+PC9nPjwvc3ZnPg==
+	link: http://josm.openstreetmap.de/wiki/Styles/Coloured_Streets
+	min-josm-version: 7480
+	title: Coloured Streets
+	version: 3.38.92_2014-11-10
+Styles_Coloured_Suburb-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Coloured_Suburb&zip=1
+	author: geozeisig
+	description: Coloring of buildings with addr:suburb depending on a CRC- algorithmus
+	link: http://josm.openstreetmap.de/wiki/Styles/Coloured_Suburb
+	title: Coloured Suburb
+	version: 2.9_2014-04-26
+Styles_Coloured_buildings-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Coloured_buildings&zip=1
+	author: geozeisig
+	de.description: Stil für Gebäudeklassifizierung
+	de.link: https://josm.openstreetmap.de/wiki/De:Styles/Coloured_buildings
+	de.title: Coloured Buildings.de
+	description: Style to classify buildings (german)
+	link: https://josm.openstreetmap.de/wiki/Styles/Coloured_buildings
+	title: Coloured Buildings.de
+	version: 1.012_2014-04-01
+Styles_Cycleways-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Cycleways&zip=1
+	author: cmuelle8
+	de.description: Eigenständiger Stil, der Radwege und -spuren, sowie bicycle=official|designated|yes|no hervorhebt - bitte JOSM-Stil deaktivieren.
+	de.title: Radwege und -spuren
+	description: Standalone style to visualize cycleway=* and bicycle=* of objects, fade everything else. Please turn off JOSM internal style to use it.
+	link: http://josm.openstreetmap.de/wiki/Styles/Cycleways
+	min-josm-version: 5198
+	title: Cycleways
+	version: 1.6_2014-06-13
+Styles_Fixme-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Fixme&zip=1
+	author: pierzen
+	description: This MapCSS style highlights ways/Polygons that contain Fixme attribute and unnamed highways. This style may be used alone or combined with other styles such as Potlatch2 and Mapnik (Tested in JOSM only).
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAv0lEQVQIHQXBvQ7BUBgG4Pc755NqUxLpanURuCKzn0QTiZgNVrOxk8RNMHew2MQgMdDSntPz43kIAC7DYRonyZyEkK6uXfF67QCs5Xk0WvaSZMNSRoMsC4rjsc3OjcuytBx3uwtfVeyEADHD1DWM1q0wjmfsrRVea3gi6McD1f0OVRTQADGaxnul0Px+uE0meOc5DAATRV6Uz+f2e73qT56jv1rBhSEcszNSHujU6SAKgikplVoistZ6I+UeQPoHQG5cY2hMtiEAAAAASUVORK5CYII=
+	min-josm-version: 7110
+	shortdescription: FIXME Highlight Warnings
+	title: FIXME
+	version: 0.8_2014-10-27
+	icon-size: 7x7
+Styles_FrenchEPCI-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/FrenchEPCI&zip=1
+	author: Don-vip
+	description: Display French local authorities (known as EPCI)
+	fr.description: Afficher les EPCI avec le même style que Banatic
+	fr.shortdescription: EPCI (France)
+	shortdescription: EPCI (France)
+	version: 1.3_2011-07-09
+	xmlns: http://josm.openstreetmap.de/mappaint-style-1.0
+Styles_Guidepost-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Guidepost&zip=1
+	author: vsandre
+	description: Show a special icon for a paddenstoel guidepost.
+	link: http://josm.openstreetmap.de/wiki/Styles/Guidepost
+	title: Paddenstoel guidepost
+	version: 1.5_2011-05-20
+Styles_HU-HighlightHikingTrailSigns-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/HU-HighlightHikingTrailSigns&zip=1
+	author: efemm
+	description: Highlight hiking trails icons, optimized for Hungarian marking.
+	link: http://wiki.openstreetmap.org/wiki/WikiProject_Hungary/Turista%C3%BAt
+	title: HU-HighlightHikingTrailSigns
+	version: 1.1_2014-08-01_9
+Styles_Highway_Nodes-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Highway_Nodes&zip=1
+	author: naoliv
+	description: Highlights untagged and unconnected nodes in a way
+	link: http://josm.openstreetmap.de/wiki/Styles/Highway_Nodes
+	title: Highway Nodes
+	version: 1.3_2014-01-16
+Styles_Historic_Stones-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Historic_Stones&zip=1
+	author: ajoessen,lutz
+	description: Visualization of some historic=* tags
+	title: Boundary_Stone
+	version: 0.6_2012-07-06
+Styles_JP-Desaster-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/JP-Desaster&zip=1
+	author: cmuelle8
+	description: Dash out ways tagged with barriers, visualize practicability=*
+	link: http://josm.openstreetmap.de/wiki/Styles/JP-Desaster
+	title: Japan Impassable Ways
+	version: 1.5_2011-03-22
+Styles_JP-Tsunami-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/JP-Tsunami&zip=1
+	author: PierZen
+	description: POIS related to Tsunami plus Surface / Roads with damages, obstacles
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAQCAMAAADQzfSkAAAAn1BMVEUAAADXPz8tDg45ERFFFRXKOzvvtLT////+/PzplJSSKipCEhLfaGjXQUFYGRl9JSXXQEB3IyOPKirzxMT20tLniorjenrcVlbnjIzfY2PfZWXRPT3njY3ZSkrqmZnurKxNFhblhITvsbH10NDidHTvsLDYRkbhcHC6NjY3EBCoMDDYRETlgoLZR0fWPj731tbwt7eEJydWGRm4NjaVKysfqTgnAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEgAACxIB0t1+/AAAAJlJREFUGNOFkUcCgkAQBCkR24wi5pwR8+r/3+YBlMWD1rUO3T3jOP/ApvBL2sJ13aIHlKRyBaCauRoAdSU0gGYmfaClN1ZmOwgCoKOQbq8/GGpkZY4BkCb0NdVMc6vQInXL1K0A8LM41grZbHeaaQ9eFEWHRMbAMdfFWugBp1Sdv/dfgONV0g24G2OMk5/44fF10diWz7/feQHn/AmCAECxXwAAAABJRU5ErkJggg==
+	link: http://josm.openstreetmap.de/wiki/Styles/JP-Tsunami
+	title: Japan Tsunami POIS
+	version: 1.21_2014-10-23
+	icon-size: 27x16
+Styles_Landcover-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Landcover&zip=1
+	author: Martin Vonwald
+	de.description: Zeige landcover und einige zusätzliche landuse Tags
+	de.title: Landcover Tags
+	description: Show landcover and some additional landuse tags
+	title: Landcover tags
+	version: 0.4.11_2014-03-31
+Styles_Lane_and_Road_Attributes-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Lane_and_Road_Attributes&zip=1
+	author: Martin Vonwald
+	de.description: Anzeige von Fahrspuren, Breite, Abbiegespuren, Spurwechsel, Zielangaben, Beleuchtung inkl. Straßenlampen, Gehsteig/Bürgersteig, Radwege, Fahrradspuren, Busspuren, Öffi-Spuren.
+	de.link: http://josm.openstreetmap.de/wiki/De:Styles/Lane_and_Road_Attributes
+	de.title: Fahrspur- und Straßenattribute
+	description: Visualization of lanes, width, turn lanes, changing the lane, destination, lighting and street lamps, sidewalk, cycletracks, bicycle lanes, bus lanes, psv lanes.
+	icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNyAxOCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTM4NS01MjQuMzYpIj48cGF0aCBmaWxsPSIjMjAyZDIwIiBkPSJtMzg1IDUyNC4zNmgxN3YxOGgtMTd6Ii8+PGcgZmlsbD0ibm9uZSI+PGcgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLXdpZHRoPSIxLjgiPjxwYXRoIGQ9Im0zODcuNSA1MjUuMjZ2MTYuMiIgc3Ryb2tlPSIjZTRlN2U0Ii8+PHBhdGggZD0ibTM5OS41IDUyNS4yNnYxNi4yIiBzdHJva2U9IiNlNWU3ZTUiLz48L2c+PHBhdGggZD0ibTM5My41IDUyNi4zNnY0IiBzdHJva2U9IiNlNWU3ZTUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjciLz48L2c+PHBhdGggZD0ibTM5My41IDUzNS4zNnY0IiBmaWxsPSIjZTRlN2U0IiBzdHJva2U9IiNlNWU3ZTUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjciLz48L2c+PC9zdmc+
+	license: CC-BY-SA
+	link: http://josm.openstreetmap.de/wiki/Styles/Lane_and_Road_Attributes
+	min-josm-version: 7287
+	title: Lane and road attributes
+	version: 2.7-52_2014-10-30
+Styles_Lane_features-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Lane_features&zip=1
+	author: Wolfgang Hinsch
+	de.description: Darstellung der Tags für: Fahrspuren, Abbiegespuren, Busspuren, Spurwechselverbote, Radwege, Bürgersteige und Straßenbeleuchtung
+	de.title: Fahrspur-Details für Rechtsverkehr, Version mit Abbiegepfeilen
+	description: Shown tags:: lanes, turn lanes, bus lanes, changing the lane, cycleways, sidepaths and lightning
+	es.description: Representación gráfica de los tags de carriles de tráfico, de girar, de autobús y de bicicleta; aceras y alumbrado público
+	es.title: Carriles para circulación por la derecha, versión con flechas
+	license: CC-BY-SA
+	min-josm-version: 5576
+	title: Lane details, right-hand traffic, arrow version
+	version: 0.11_2014-06-29
+Styles_Lane_features_ryg-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Lane_features_ryg&zip=1
+	author: Wolfgang Hinsch
+	de.description: Darstellung der Tags für: Fahrspuren, Abbiegespuren, Busspuren, Spurwechselverbote, Radwege, Bürgersteige und Straßenbeleuchtung
+	de.title: Fahrspur-Details für Rechtsverkehr, Version mit Farben
+	description: Shown tags:: lanes, turn lanes, bus lanes, changing the lane, cycleways, sidepaths and lightning
+	es.description: Representación gráfica de los tags de carriles de tráfico, de girar, de autobús y de bicicleta; aceras y alumbrado público
+	es.title: Carriles para circulación por la derecha, versión con colores
+	license: CC-BY-SA
+	min-josm-version: 5576
+	title: Lane details, right-hand traffic, color version
+	version: 0.5_2014-07-02
+Styles_LegacyStandard-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/LegacyStandard&zip=1
+	ca.shortdescription: JOSM predeterminat (XML; versió antiga)
+	cs.shortdescription: JOSM výchozí nastavení (XML; stará verze)
+	de.shortdescription: JOSM Standard (XML; old version)
+	description: Old version of JOSM default style
+	es.shortdescription: JOSM por defecto (XML; versión antigua)
+	fr.shortdescription: JOSM par défaut (XML; old version)
+	hu.shortdescription: JOSM alapértelmezett (XML; régi verzió)
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAC8ElEQVR4AS2S3WtbZQCHf+97zsn5yEmXNN3apjaaltbZBtpO69LJqDh6s0LL9KqozA/wQi+KgpeKd3ojyFD0QsEv3C5kiiAoiLauOK06t4W1S5vEJCVNk3Q55+Tr5OR8vPbC5x944OEhc2dmJ4J9qvr66nO3124mWeLRGfrepY+n6+XGAzJVdx3PXfQryolWq31H0w6LPlH4GUCDnF8+N//iK0+umeVaXSNIcYp3Uh6wA40Uj821XYyO3wfD1EBdHvv5CsC4FQBXyPfXriiaVqyen59WugKPAsnhx6vXkdlosHNLs2T24bO4mf0VCiez/bRB/lrbaWwlt+N0848/XUNvbVnwYHYscKYfWpKHNK6RllpEvpaEZTmwLR+Jnx5lckAIhEKhp+npxx6hqiJOEKsLGlRRzB+C530I9DvYTE7jt+w69G4OFEBTb5F0KoNoNJqg77/z+dTYVExxbA+o3kNPSIEk+EA7cxgOhsFZCwhyffBLfiRvpCBQEZZlHdJmS4+F+3vR5QnrtjoYvT+GwegA3HwNickK4kMGwtIYbIugWtHZcDSKg4ODr7lnn1+pU5G8OjIaIVahgn/X07j+TwrU60EuswPetLFXrsLpeDBrHknv5L5zbfdtKgaE8kFBz7c9YP3GBj786A3ItgZecSB7KvSiiCF5BH7vOOIjwxg8IW+bXQNUt0zPNvXaL19dxg9fXoUkisjc+hYLy9NYOJtAv9QEK22juX8XPb0RjMdP9S1fuODwE6o0cPvv9ZlydheSj0AiFjt15gkSOaYgV2D4/advWKlUJqUmwcz8Ei6+8NJkb7h3hbz58twXt5KpZwISmKqAxKbmEJtIwBMl9+TI45xIObabugu90YYgKmQwEoEsy5d5UT7m+iUPAYWShqve2crjM/+Qs9E+ahg53l6efCj+7nDsQeztFZDNZsuGYXwC4APy1muLR8tVL7X1e2HmG1sFUMD/PHVxVWBgS/V6fdE0zdKR6dNgMJgB4P0HH7VMQaGjJ5oAAAAASUVORK5CYII=
+	it.shortdescription: Predefinito JOSM (XML; vecchia versione)
+	ja.shortdescription: JOSM標準 (XML; 旧バージョン)
+	pt_BR.shortdescription: JOSM Padrão (XML; versão antiga)
+	ru.shortdescription: Стандартный JOSM (XML; старая версия)
+	shortdescription: JOSM default (XML; old version)
+	sk.shortdescription: JOSM predvolené (XML; stará verzia)
+	uk.shortdescription: JOSM типово (XML; стара версія)
+	version: 1.8_2014-10-27
+	xmlns: http://josm.openstreetmap.de/mappaint-style-1.0
+	zh_CN.shortdescription: JOSM默认（XML；旧版本）
+	icon-size: 14x14
+Styles_LessObtrusiveNodes-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/LessObtrusiveNodes&zip=1
+	author: xeen
+	de.description: Kleinere Punkte auf niedrigen Zoomstufen. Erleichert Orientierung beim Betrachten eines größeren Bereichs. Gleiches gilt für Icons und Text.
+	de.title: Unaufdringlichere Punkte
+	description: Make nodes smaller when zoomed out. This makes navigating easier when viewing a large area. Also hides icons and text accordingly.
+	link: http://josm.openstreetmap.de/wiki/Styles/LessObtrusiveNodes
+	min-josm-version: 5267
+	title: Less obtrusive nodes
+	version: 1.8_2014-08-26
+Styles_Lit-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Lit&zip=1
+	author: cmuelle8
+	bg.shortdescription: осветен(-а)
+	ca.shortdescription: Llum
+	cs.shortdescription: Osvětlení
+	da.shortdescription: Oplyst
+	de.description: Anzeige der Straßenbeleuchtung in der JOSM-Kartenanzeige
+	de.shortdescription: Straßenbeleuchtung
+	description: Show lit=yes/no settings in JOSM map display
+	es.shortdescription: Iluminación
+	et.shortdescription: Valgustatud
+	fr.shortdescription: Éclairé
+	hu.shortdescription: Kivilágítás
+	id.shortdescription: Sulut
+	it.shortdescription: Illuminazione stradale
+	ja.shortdescription: 照明
+	nl.shortdescription: Verlicht
+	pl.shortdescription: Oświetlenie
+	pt.shortdescription: Com iluminação
+	pt_BR.shortdescription: Iluminado
+	ru.shortdescription: Уличное освещение
+	shortdescription: Lit
+	sk.shortdescription: Pouličné osvetlenie
+	sv.shortdescription: Belyst
+	uk.shortdescription: Освітлення
+	version: 1.3_2012-09-01
+	xmlns: http://josm.openstreetmap.de/mappaint-style-1.0
+	zh_CN.shortdescription: 路灯
+Styles_LitObjects-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/LitObjects&zip=1
+	author: achadwick
+	description: Supplementary stylesheet which highlights lit and unlit objects by surrounding them with large glows. Works well with the Potlatch 2 base style.
+	icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKgSURBVDjLlZLrS1NxGMd90ZvovdEfEBEUEhZIb0xMjdyLIuyGkiHGUFKydFKKJiRegjIyFJRwojMxzfJSaVOYeTfxtpSNuZ1tXnY2z27nsss5334uWloG9uLD7/A7z/fzPPx4IgBE7ISl3qWyelUvu9JIueZqeOdUmcCMFDgcQ3fntjSK0j/rwx+csesIZ3jbL1j6EbCPIej5DpE3QRIoBJ3LEFb74BjIxkbXVYNdrTixS8Ca3h/y6pSTfloD0UcRjCS8BJGbRdA7QRgjd1pIfhruyeewKOMdm+rCw2GBV1tXKZh7SIEVoqAjpwVS0AlIvhBSkCGyeQRcPYDogO1DNixvrveFBa6ZCkuAmSe1OtJpFVLATkJboWCIAE3+GYngI6ENgnUK+hcxfFiw9fWRT+RWEWTHEeRmyPhaMvYCgu5ZEpgkbzCCgPszBNsr8NY8iF4Ky5WnpLDArs41+zYnSPdF8OYi0qEcTHc6mF45mJ4M2Ftl4C1lYPU34KerwFNTWKmO/j2BfbiwghmvJuPawZsUsNVHgTPlEx6ANcjJeR9r5QfhWUqEJOlhbc+FoV42FBY4R0sPbPbKlz2LLeQB9aCbYkJhzpIFlkoDZ8zDRk0kRHYYrm8d0JYeEyyduUd37QH9pTBqvSOV9iy0wtmZ+VNAOm+HOeM92JtlYDQN0JYcD1BtmTf/WqRtbJ/yTxtUt9fXGhPBq5MhriVBtMYhoLkMQ1Ek5sqi3eb2O4l7buIvhlRPkmsfZ/ibax+iruosnpacQUFOOq7Fn5TUypJz/1zlnRQr5JSypRVKZRvq6htR/ewlriTH03vV7ilQ5NwaHRgchM1GY3p6Bq+bmpEii9XtWzCgqkhLuXSBTUg4L8XFxUoXk2K57obirH0L/ocfNQ8V8wE+uE0AAAAASUVORK5CYII=
+	title: Lit Objects
+	version: 0.1_2012-02-01
+	icon-size: 16x16
+Styles_MTB-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/MTB&zip=1
+	author: Heiko Woehrle
+	de.description: Darstellung von Mountainbike-relevanten Angaben wie mtb:scale etc. - bitte JOSM-Stil deaktivieren.
+	de.title: MTB
+	description: visualize mtb:scale of objects
+	link: https://josm.openstreetmap.de/wiki/Styles/MTB
+	min-josm-version: 7110
+	title: MTB
+	version: 0.12_9_2014-10-06
+Styles_Maxspeed-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Maxspeed&zip=1
+	author: Rubke, Dirk Stöcker, Vclaw, Klumbumbus
+	de.description: Anzeige der Höchstgeschwindigkeiten in der JOSM-Kartenanzeige.
+	de.link: http://josm.openstreetmap.de/wiki/De:Styles/Maxspeed
+	de.title: Höchstgeschwindigkeit
+	description: Display maxspeed values in JOSM map display.
+	icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOC4wOSAxOC4wOSI+PGcgdHJhbnNmb3JtPSJtYXRyaXgoLjAzMDcgMCAwIC4wMzA3MS0uMTQ2LTQuMzAzKSI+PHBhdGggZD0ibTU5MS45NSA0MzQuNzVjMS4xNDQtMTQ2Ljg4LTExMC41LTI3Mi40OC0yNTUuOTgtMjkwLjMtMTY3LjY3LTIwLjk5NS0zMTcuMzMgMTAzLjc5LTMyOC42NiAyNzIuMTMtOS44OTkgMTY3LjkyIDEyMy43NSAzMTEuMjYgMjkyLjMyIDMxMC40OSAxNjAuNzIgMS4wOTcgMjkzLjM1LTEzMS43MSAyOTIuMzItMjkyLjMyIiBmaWxsPSIjZmZmZWZlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjE3NCIvPjxwYXRoIGQ9Im01OTEuNyA0MzQuODFsLS40MDQtMTguMTdtMCAwbC00LjQ0MS0zNi43NDJtMCAwbC05LjI4Ni0zNS41MzFtMCAwbC0xMy4zMjQtMzQuMzJtMCAwbC0xNy43NjUtMzEuODk3bTAgMGwtMjEuODAzLTI5Ljg3OG0wIDBsLTI1LjAzLTI2LjY0OG0wIDBsLTI4LjI2LTIzLjQxOG0wIDBsLTMxLjA5LTE5Ljc4NG0wIDBsLTMzLjExLTE1Ljc0N20wIDBsLTM1LjEzLTExLjMwNW0wIDBsLTM2LjM0LTYuODY0bTAgMGwtMzYuMzQtMi40MjNtMCAwbC0zNi43NDIgMi40MjNtMCAwbC0zNS45MzQgNi44NjRtMCAwbC0zNS4xMyAxMS4zMDVtMCAwbC0zMy4xMSAxNS43NDdtMCAwbC0zMS4wOSAxOS43ODRtMCAwbC0yOC4yNiAyMy40MThtMCAwbC0yNS4wMyAyNi42NDhtMCAwbC0yMS44MDMgMjkuODc4bTAgMGwtMTcuNzY1IDMxLjg5N20wIDBsLTEzLjMyNCAzNC4zMm0wIDBsLTkuMjg2IDM1LjUzMW0wIDBsLTQuODQ1IDM2Ljc0Mm0wIDB2MzYuMzRtMCAwbDQuODQ1IDM2Ljc0Mm0wIDBsOS4yODYgMzUuNTMxbTAgMGwxMy4zMjQgMzMuOTE2bTAgMGwxNy43NjUgMzIuM20wIDBsMjEuODAzIDI5Ljg3OG0wIDBsMjUuMDMgMjYuNjQ4bTAgMGwyOC4yNiAyMy40MThtMCAwbDMxLjA5IDE5Ljc4NG0wIDBsMzMuMTEgMTUuNzQ3bTAgMGwzNS4xMyAxMS4zMDVtMCAwbDM1LjkzNCA2Ljg2NG0wIDBsMzYuNzQyIDIuMDJtMCAwbDM2LjM0LTIuMDJtMCAwbDM2LjM0LTYuODY0bTAgMGwzNS4xMy0xMS4zMDVtMCAwbDMzLjExLTE1Ljc0N20wIDBsMzEuMDktMTkuNzg0bTAgMGwyOC4yNi0yMy40MThtMCAwbDI1LjAzLTI2LjY0OG0wIDBsMjEuODAzLTI5Ljg3OG0wIDBsMTcuNzY1LTMyLjNtMCAwbDEzLjMyNC0zMy45MTZtMCAwbDkuMjg2LTM1LjUzMW0wIDBsNC40NDEtMzYuNzQybTAgMGwuNDA0LTE4LjE3Ii8+PGcgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJtNTc3LjI2IDQzNC43MWMuNDU4LTE0MC4wNy0xMDQuMzItMjU4LjEyLTI0My4wNi0yNzUuNzctMTU4LjY4LTIwLjEzLTMwMi42NyA5OC40Mi0zMTIuMSAyNTguNC0xMC4zNzcgMTYwLjA2IDExNy4xOCAyOTUuNDQgMjc3LjM4IDI5NS4xNSAxNTIuOTYuNDUxIDI3OC40MS0xMjQuNzEgMjc3Ljc5LTI3Ny43OSIgZmlsbD0iI2MxMTIxYyIvPjxwYXRoIGQ9Im01MDQuMDkgNDM0LjY0Yy4zMS0xMDIuNy03Ny4xOC0xOTAuODgtMTc5LjI3LTIwMy4wOS0xMTYuNzMtMTUuMDItMjIyLjc5IDcyLjc0LTIyOS43NCAxOTAuMTctNy40MzYgMTE4LjQ1IDg2LjA1IDIxNy4wNiAyMDQuMyAyMTcuNjMgMTEzLjU4LS45MDIgMjA0LjE5LTkwLjY4IDIwNC43MS0yMDQuNzEiIGZpbGw9IiNmZmZlZmUiLz48cGF0aCBkPSJtMjIwLjA1IDMxNS4wOWgzOC4zNmwtNTEuMjggMTAyLjE1YzI3LjA1LTEwLjAxIDU0LjMzLS44NjggNjkuNDUgMjMuODIyIDEzLjc5NSAyNS40MDMgMTAuNDk4IDc2Ljg0LTE0LjEzIDk2LjUtMjkuOTY2IDI3LjI2LTczLjA5IDI0LjE5LTk5LjczLTYuMDYtMTMuMDQtMTYuOTQ0LTE2LjQyNi0zMy4yNC0xNS4zNDMtNTQuMXYtMy4yM2wuNDA0LTYuNDYgMS4yMTEtNi4wNiAxLjYxNS02LjA2IDIuNDIzLTYuMDYgMS4yMTEtMi44MjYgNjUuODEzLTEzMS42M20tMzguNzYxIDE2Mi4zMWMtNi4xMSA1NS41OSA2NS42OCA1OS4xMyA2OC4yNCAxMC40OTggNi43OTctNTYuNDUtNjUuNzcyLTU5LjE2LTY4LjI0LTEwLjQ5OG0xMzIuNDMgMTAuNDk4YzcuMTMzLTY0LjQzLTI4LjY5NC0xNTYuOTEgNTkuNzU2LTE3NC40MiA0MC40ODMtNC44MjUgNzYuOTc2IDI2LjcwMiA3Ni43MSA2Ny44MzEtNy4xMTMgNjUuMjggMjguNjk0IDE1Ni4yMS01OS43NTYgMTc0LjQyLTQxLjEgNC42MjMtNzYuNjctMjYuMjEtNzYuNzEtNjcuODMxbTMzLjkxNiAwdi0xMDYuNTlsLjQwNC0yLjQyMy40MDQtNC4wNC44MDgtNC4wNCAxLjYxNS00LjA0IDIuMDItNC4wNGM2Ljk2NS04Ljk4NCAxMy4yMDMtMTMuNDk5IDI0LjYyOS0xNS4zNDMgMjAuNzgtMi42MzEgMzguNCAxMy4wOSAzOC4zNiAzMy45MTZ2MTA4LjYxbC0uNDA0IDQuNDQxLTEuMjExIDQuMDQtMS42MTUgNC4wNC0yLjAyIDMuNjM0Yy01LjEwMSA4Ljc2Mi0xNC43MyAxNC4zNjctMjQuNjI5IDE1Ljc0Ny05LjkzMiAxLjAyMy0yMC4zMzYtMi4xNC0yNy40NTYtOS4yODYtOC42NC04LjI1Ny05LjY2My0xMy40MzgtMTAuOTAxLTI0LjYyOSIvPjwvZz48L2c+PC9zdmc+
+	link: http://josm.openstreetmap.de/wiki/Styles/Maxspeed
+	min-josm-version: 7193
+	title: Maxspeed
+	version: 2.0.13_2014-10-30
+Styles_MaxspeedIcons-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/MaxspeedIcons&zip=1
+	author: Martin Koppenhoefer
+	de.description: Anzeige der Höchstgeschwindigkeit auf Punkten mittels Geschwindigkeitsbegrenzungszeichen.
+	de.shortdescription: Geschwindigkeitsbegrenzungszeichen
+	description: Display maxspeed on nodes by Speedlimit signs.
+	it.description: Mostra la segnaletica per limiti di velocità (su nodi)
+	it.shortdescription: Segnaletica limiti di velocità
+	shortdescription: Speedlimit Signs
+	version: 2.10_2014-09-22
+	xmlns: http://josm.openstreetmap.de/mappaint-style-1.0
+Styles_Modified-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Modified&zip=1
+	author: Sebastian Klein
+	de.description: Geänderte Objekte hervorheben
+	de.title: Geänderte Objekte
+	description: Highlight modified objects
+	title: Modified objects
+	version: 0.1.6_2011-02-24
+Styles_Mountains-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Mountains&zip=1
+	author: lzhl
+	description: Indication mountain terrain tags
+	title: Mountains
+	version: 0.5_2013-12-07
+Styles_NewParkingFeatures-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/NewParkingFeatures&zip=1
+	author: Mario Schütze
+	de.description: Zeigt die neuen Parkplatz Features aus "Proposed_features/parking" (siehe Link).
+	de.title: neue Parkplatz Features
+	description: Display the new parking features from "Proposed_features/parking" (see link).
+	link: http://wiki.openstreetmap.org/wiki/Proposed_features/parking
+	title: new parking features
+	version: 1.2_2012-02-05
+Styles_Noname-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Noname&zip=1
+	author: Yann Coupin
+	description: Could be a U2 song: highlights where the streets have no name
+	fr.description: Ça pourrait être une chanson de U2: « Where the streets have no name », surligne les rues sans nom
+	fr.title: Sans nom
+	title: Streets Have No Name
+	version: 0.3_2012-10-19
+Styles_NumberedCycleNodeNetworks-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/NumberedCycleNodeNetworks&zip=1
+	author: Polyglot
+	description: Highlight Numbered nodes and the routes in between them
+	link: http://josm.openstreetmap.de/wiki/Styles/NumberedCycleNodeNetworks
+	min-josm-version: 5198
+	nl.description: Doet fietsknooppunten en de routes ertussen duidelijker tot hun recht komen.
+	nl.title: Fietsknooppuntennetwerken
+	title: Numbered Cycle Node Networks
+	version: 1.6_2012-11-04
+Styles_NumberedWalkingNodeNetworks-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/NumberedWalkingNodeNetworks&zip=1
+	author: Marc Gemis
+	description: Highlight numbered nodes and the routes in between them
+	link: http://josm.openstreetmap.de/wiki/Styles/NumberedWalkingNodeNetworks
+	min-josm-version: 5198
+	nl.description: Doet wandelknooppunten en de routes ertussen duidelijker tot hun recht komen.
+	nl.title: Wandelknooppuntennetwerken
+	title: Numbered Walking Node Networks
+	version: 1.3_2012-11-08
+Styles_Osmc-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Osmc&zip=1
+	author: Martin Ždila <martin.zdila@freemap.sk>
+	description: Colorize marked hiking trails using OSMC tagging schema.
+	title: OSMC Hiking
+	version: 0.2.3_2013-11-03
+Styles_OsmcSKCZPL-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/OsmcSKCZPL&zip=1
+	author: Martin Ždila <martin.zdila@freemap.sk>
+	description: Colorize marked hiking trails using OSMC tagging schema. Optimized for SK/CZ/PL marking.
+	title: OSMC Hiking (optimized for SK/CZ/PL)
+	version: 0.2.2_2013-11-03
+Styles_ParkingLanes-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/ParkingLanes&zip=1
+	author: Sebastian Klemm, Kay Drangmeister
+	de.description: Parkstreifen/Parkplätze entlang von Straßen und Park-/Halteverbote.
+	de.title: Parkstreifen
+	description: Parking lanes along roads and parking/stopping restrictions.
+	link: http://wiki.openstreetmap.org/wiki/Key:parking:lane
+	min-josm-version: 4399
+	title: Parking lanes
+	version: 0.9_2013-02-21
+Styles_Ph_Typhoon-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Ph_Typhoon&zip=1
+	author: Hjart
+	description: Style to classify buildings
+	link: http://wiki.openstreetmap.org/wiki/Damaged_buildings_crisis_mapping
+	title: Collapsed/damaged buildings
+	version: 0.4_2013-11-17
+Styles_Potlach2_access-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Potlach2_access&zip=1
+	author: iav
+	description: Visualizes access tag on highways. Made only for Potlach2 JOSM style
+	title: potlach2 access
+	version: 0.2_2012-11-30
+Styles_Power-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Power&zip=1
+	author: Cobra
+	de.description: Ein detaillierterer Stil für verschiedene Anlagen zur Stromversorgung
+	de.title: Stromversorgung
+	description: A more detailed style for various power facilities and features
+	title: Power
+	version: 0.3.3_2014-04-01
+Styles_PowerMapping-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/PowerMapping&zip=1
+	author: prabhasp
+	description: Special icons for facilitating mapping of power lines; in development.
+	link: http://josm.openstreetmap.de/wiki/Styles/Power_Mapping
+	title: Power Mapping Additions
+	version: 0.1_2013-04-22
+Styles_PublicTransportation-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/PublicTransportation&zip=1
+	author: Polyglot
+	description: Highlight important information regarding Public Transportation
+	link: http://josm.openstreetmap.de/wiki/Styles/PublicTransportation
+	min-josm-version: 5198
+	nl.description: Zet interessante info van bus- en tramhaltes in de kijker
+	nl.title: Openbaar vervoer
+	title: Public Transportation
+	version: 1.5_2012-11-04
+Styles_ShowID-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/ShowID&zip=1
+	author: Klumbumbus
+	de.description: Dieser Stil ist für eine Ebene mit der .osm-Datei von Keypad-Mapper 3. Er zeigt die (positive) ID der Hausnummern. Dadurch kann man die Reihenfolge nachvollziehen, in der man die Punkte aufgenommen hat. Dies kann bei der Hauszuordnung helfen, wenn manche der aufgenommenen Hausnummern auf einem Haufen sind. Mehr Informationen, wie dieser Stil benutzt wird siehe den angegebenen Link.
+	de.link: http://josm.openstreetmap.de/wiki/De:Styles/ShowID
+	de.title: ZeigeID
+	description: This style is for a layer with the .osm file from Keypad-Mapper 3. It shows the (positive) IDs of the housenumbers. So you can see the sequence of the nodes, how you recorded them. For more information how to use this style see the link.
+	icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTY2MC03MjkuMzYpIj48cGF0aCBkPSJtNjYwIDcyOS4zNmgxOHYxOGgtMTh6Ii8+PHBhdGggZmlsbD0iI2ZmMCIgZD0ibTY2MSA3MzAuMzZoNHY0aC00eiIvPjxwYXRoIGQ9Im02NjIgNzMxLjM2aDJ2MmgtMnoiLz48cGF0aCBkPSJtNjY5IDczMi4zNmMtMS41MzYgMS4wMS0yLjUxMiAzLjA0OS0zIDUtLjY5IDMuMjMtLjI2OCAzLjc0NyAwIDUgLjY5OSAxLjg5NyAyLjMwNCAyLjY1IDQuMDY2IDMuNjAyIDEuNTk2LjU2NSAzLjM2NS43OSA1IDAgMS4xOTEtLjcxNCAxLjM1OC0xLjkzOCAyLTQgLjQ4LTEuOTIuMTQ1LTMuNTY3LS4wNjYtNS42MDItLjMtMS4zODYtLjQ5LTIuNjU0LTItNC0xLjM1Ny0xLjA0My00LjE5LTEuMDYtNiAwIiBmaWxsPSIjZmZmIi8+PHRleHQgeD0iNjY4Ljc3IiB5PSI3NDMuMjkiIGZvbnQtZmFtaWx5PSJEcm9pZCBTYW5zIiB0ZXh0LWFsaWduPSJzdGFydCIgd29yZC1zcGFjaW5nPSIwIiBsaW5lLWhlaWdodD0iMTI1JSIgbGV0dGVyLXNwYWNpbmc9IjAiIGZvbnQtc2l6ZT0iMTEuMjM0Ij48dHNwYW4geD0iNjY4Ljc3IiB5PSI3NDMuMjkiPjU8L3RzcGFuPjwvdGV4dD48L2c+PC9zdmc+
+	link: http://josm.openstreetmap.de/wiki/Styles/ShowID
+	title: ShowID
+	version: 1.0.012_2014-10-30
+Styles_Sidewalks-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Sidewalks&zip=1
+	author: Cobra
+	de.description: Visualisiert Gehweg-Attribute von Straßen. sidewalk=* wird als gestrichelte dicke Linie gerendert, seperat gemappte Gehwege mit footway=sidewalk werden dicker gerendert.
+	de.title: Gehwege
+	description: Visualizes the sidewalk attribute of highways. sidewalk=* is rendered as a thick dashed line, seperately mapped sidewalks tagged footway=sidewalk are rendered thicker.
+	link: http://wiki.openstreetmap.org/wiki/Key:sidewalk
+	min-josm-version: 4399
+	title: Sidewalks
+	version: 0.4_2014-05-31
+Styles_SimpleBuildingTags-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/SimpleBuildingTags&zip=1
+	author: heilbron
+	description: Visualize the presence of some basic simple 3D building tags (wall colour, number of building and roof levels)
+	link: http://josm.openstreetmap.de/wiki/Styles/SimpleBuildingTags
+	title: Simple building tags
+	version: 1.12_2014-10-01
+Styles_SimpleRoofTags-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/SimpleRoofTags&zip=1
+	author: heilbron
+	description: Visualize the presence of some simple roof tags (shape & colour)
+	link: http://josm.openstreetmap.de/wiki/Styles/SimpleRoofTags
+	title: Simple roof tags
+	version: 1.9_2014-03-21
+Styles_SlovakiaBicycleRoutes-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/SlovakiaBicycleRoutes&zip=1
+	author: Martin Ždila <martin.zdila@freemap.sk>
+	description: Colorize bicycle routes tagged with tag colour.
+	title: Colorize bicycle routes
+	version: 0.2.4_2013-11-03
+Styles_Surface-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Surface&zip=1
+	author: cmuelle8
+	de.description: Oberflächenbeschaffenheit, etwa von Wegen, hervorheben
+	de.title: Oberflächenbeschaffenheit
+	description: Visualize surface=* of objects
+	link: https://josm.openstreetmap.de/wiki/Styles/Surface
+	title: Surface
+	version: 1.24_2014-10-23
+Styles_Surface-DataEntry-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Surface-DataEntry&zip=1
+	author: AndrewBuck
+	description: This styling is intended for data entry of road surface tags from aerial imagery.  The style not only shows the status and value of the surface tag, but also refrains from drawing directly on the road allowing a clear view of the road surface in the imagery to allow for easier editing/checking of the surface values.
+	link: http://josm.openstreetmap.de/wiki/Styles/Surface-DataEntry
+	title: Surface - Data Entry
+	version: 1.0.8_2014-06-13
+Styles_Traffic_signs-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Traffic_signs&zip=1
+	author: yopaseopor
+	ca.shortdescription: senyals_trànsit_
+	description: Display all the signs you put the info in osm.Specially recomended with roadsigns pluggin
+	es.description: Muestra las señales de tráfico introducidas en osm.Especialmente recomendado con el pluggin roadsigns preset España.
+	es.shortdescription: señales_tráfico_
+	shortdescription: traffic_signs_
+	version: 1.14_2013-07-31
+	xmlns: http://josm.openstreetmap.de/mappaint-style-1.0
+Styles_TreeCrownDiameter-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/TreeCrownDiameter&zip=1
+	author: AndrewBuck
+	description: This style shows which trees have a tree crown diameter entered on them and if so, attempts to show the trees relative to their size.
+	link: http://josm.openstreetmap.de/wiki/Styles/TreeCrownDiameter
+	title: Tree-Crown_Diameter
+	version: 1.0.3_2014-10-23
+Styles_Whitewater-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/Whitewater&zip=1
+	author: pankdm
+	description: Visualization of some whitewater=* tags
+	title: Whitewater
+	version: 0.4_2011-09-10
+Styles_plan.at-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/plan.at&zip=1
+	author: simon04
+	de.description: Problematische Objekte aus dem plan.at-Import hervorheben
+	de.title: plan.at ToDos
+	description: Highlight problematic objects from plan.at import
+	link: http://wiki.openstreetmap.org/wiki/WikiProject_Austria/plan.at/Abschluss
+	title: plan.at ToDos
+	version: 1.4_2011-05-03
+Styles_sac_scale-style.zip;https://josm.openstreetmap.de/josmfile?page=Styles/sac_scale&zip=1
+	author: Klumbumbus
+	de.description: Zeigt sac_scale=* farbig an.
+	de.link: http://josm.openstreetmap.de/wiki/De:Styles/sac_scale
+	de.title: sac_scale
+	description: Displays sac_scale=* coloured.
+	icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNy4zOTg0ODUgMTcuOTk4MjIiPjxwYXRoIGQ9Im01LjY3MyAxMC45ODJsLTEuMzIxIDIuNDEgMi4zMTIgNC4yNjUtLjYzMy4zMzQtMi4wOTEtMy44MjMtMS42NzkgMy4wNzUtLjAyOC4wODMtLjIyMS4yNzgtLjEzNi4xMS0uMTM4LjA4My0uMTY1LjA4M2MtLjQwMS4xODYtLjg4LjE0LTEuMjY3LS4wNTVsMi44MDgtNS4xODEtMi40MjMtNC40NmMtLjM2MS4wNTktLjczNS0uMzA4LS42ODgtLjY2NC4wMTgtLjE4MS4xMDItLjM1OS4yNDctLjQ3bDQuMzIyLTMuMjcuMDgzLS4wNTYuMTkyLS4xMS4xNjctLjA4My4xOTItLjA1Ni4xOTQtLjAyNy4yMjEtLjAyOWguMTkybC4xOTQuMDI5LjE5Mi4wNTYuMzg1LjE2Ni4yNDcuMTY2IDIuMDM4IDEuNzQ2Yy4yNDQuMTUxLjM1LjQ3OC4zODUuNzQ3LjAzIDEuMTguMzEzIDIuNjk4LTEuMjM5IDIuODUzdi0yLjcxNGwtLjkwOC0uNzQ4djQuMTg0aC0yLjg5di00LjI2N2wtMi44OSAyLjE4OSAyLjIwMiA0LjA3My42MDYtMS4xMDkuMDI3LS4wMjcuMDI5LS4wODMuMDI3LS4wNTZ2LS4zNjFoMi44OXYuMjc3bC4wMjcuMDgzLjAyOC4wNTZ2LjA4M2wuMDI3LjAyNyAyLjA2NCAzLjc5NyAyLjA2NC0zLjc5Ny4wMjctLjAyNy4wMjktLjA4My4wMjctLjA1NnYtLjEzOWwuMDI5LS4wNTR2LS4xNjhoMi44NjJjLS4wMTYuMTQ0LjAwNy4yNzcuMDI3LjQxNiAxLjAyOCAxLjg3MiAyLjQ1IDMuNzEgMy4wNTUgNS43ODkuMTIzLjU3OS0uMTc0IDEuMjczLS43MTUgMS41MjRsLTMuNzk5LTcuMDEtMi43NzkgNS4xMjQuMDgzLjI1MS4wMjcuMTY2LjAyOC4xNjZ2LjE2NmwtLjAyOC4xNjZjLS4xNTYuNDk0LS4yNzEuNjkxLS43MTUuOTcxbC0uMjQ3LS40MTdjLS40NjkuNDQ5LTEuMTQxLjU1Ny0xLjcwOC4yNTFsLjkwOS0xLjcxOC0yLjc1Mi01LjEyNG01Ljc1NC0xLjA4aDIuODYydi0zLjA3NWwxLjkyNiAzLjA3NWMuMzU3LS4yMzEuNTkxLS42NDkuNTc5LTEuMDguMDI3LS4zNjQtLjEtLjQwNy0uMTk0LS42NjVsLTIuNTMyLTQuMDcyLS4wNTYtLjA1Ni0uMTEtLjEzNy0uMTExLS4xMTItLjEzNi0uMTFjLS40ODktLjI5Ny0xLjEwMi0uMzQ2LTEuNTk2LS4wMjktLjI3MS4xOTgtLjM2Mi4zNTUtLjUyMy42MzlsLS4wNTYuMTY2LS4wNTQuMTY2djIuNTc1bC0xLjgxNyAxLjgwMmMuNTUuNTAzIDEuMjgxLjQ4NSAxLjgxNy0uMDI5di45NDNtLTUuMDQtOC40NWMtLjA3Ny0xLjg0MS0yLjYzLTEuOTg3LTIuODktLjExMi4wMTQgMS45OTEgMi43NTQgMi4wNjkgMi44OS4xMTJtNy4zNDkgMGMtLjA0My0xLjgzMi0yLjYzNC0xLjk5Ni0yLjg2My0uMTEyLS4wMzMgMS45NzggMi43NjUgMi4wNzMgMi44NjMuMTEyIi8+PC9zdmc+
+	link: http://josm.openstreetmap.de/wiki/Styles/sac_scale
+	title: sac_scale
+	version: 1.011_2014-10-30
