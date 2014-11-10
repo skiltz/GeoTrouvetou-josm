@@ -1,0 +1,8 @@
+{
+  "name": "GeoTrouvetou-josm",
+  "version": "0.0.7347",
+  "private": "true",
+  "dependencies": {
+    "GeoTrouvetou-jre": "1.7.0"
+  }
+}
